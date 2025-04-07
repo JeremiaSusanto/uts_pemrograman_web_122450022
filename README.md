@@ -1,3 +1,7 @@
+# Tugas UTS Pemrograman Web 2025
+ Jeremia Susanto 
+ 122450022
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
